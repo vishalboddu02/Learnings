@@ -1,6 +1,6 @@
 ---
 title: "What I Learned on July 21"
-date: 2025-07-21
+date: 2025-07-20
 categories: learning
 ---
 
