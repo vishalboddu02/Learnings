@@ -6,7 +6,7 @@ permalink: /about/
 
 working as a data engineer
 
-### More Information
+### More Information 
 
 posting about the simple things to gain knowledge on sql, pyspark and python.
 
