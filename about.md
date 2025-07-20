@@ -12,4 +12,7 @@ posting about the simple things to gain knowledge on sql, pyspark and python.
 
 ### Contact me
 
-linkedin : [vishal.windows.ac@gmail.com](www.linkedin.com/in/bodduvishal)
+📧 Email: [vishal.windows.ac@gmail.com](mailto:vishal.windows.ac@gmail.com)
+
+💼 LinkedIn: [linkedin.com/in/bodduvishal](https://www.linkedin.com/in/bodduvishal)
+
