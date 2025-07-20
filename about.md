@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+working as a data engineer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+posting about the simple things to gain knowledge on sql, pyspark and python.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](vishal.windows.ac@gmail.com)
