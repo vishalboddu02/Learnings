@@ -1,7 +1,7 @@
 ---
 title: "What I Learned on July 21"
 date: 2025-07-21
-categories: learning
+categories: learning 
 ---
 
 Today I set up my blog using open-source tools—Jekyll and GitHub Pages!  
